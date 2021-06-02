@@ -1,7 +1,6 @@
 import React from 'react'
 import { motion, useTransform, useViewportScroll } from 'framer-motion'
 
-import { Container } from './styles';
 import { Sticky } from '../../styles';
 
 
